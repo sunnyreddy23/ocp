@@ -1,0 +1,8 @@
+DEBUG=0
+SECRET_KEY=2+0w^ov*p9(^l&w92y%vu-m238n-c(uqprlb!(ny$52!1s)554
+DJANGO_ALLOWED_HOSTS=.localhost
+DJANGO_ADMIN_URL=custmgmt-admin/
+
+# Redis
+# ------------------------------------------------------------------------------
+REDIS_URL=redis://redis:6379/0

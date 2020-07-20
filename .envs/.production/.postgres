@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=custmgmt
+POSTGRES_USER=crmadmin
+POSTGRES_PASSWORD=crmadmin
